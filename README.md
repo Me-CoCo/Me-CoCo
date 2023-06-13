@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Co Co</h1>
 <h3 align="center">A passionate developer from on earth!</h3>
 
-- 🌱 I’m currently learning **Meditation**
+- 🌱 I’m currently focusing on **R--------N**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
